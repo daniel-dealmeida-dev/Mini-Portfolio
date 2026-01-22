@@ -32,13 +32,15 @@ Abra o arquivo index.html no navegador.
 
 Para personalizar:
 
-Substitua a foto EU.jpg pela sua foto de perfil.
+Substitua a foto Imagem.jpg pela sua foto de perfil.
 
 Altere o nome e descrição no HTML.
 
 Atualize os links do GitHub e LinkedIn.
 
-Recursos e Funcionalidades
+
+Recursos e Funcionalidades:
+
 Card interativo com efeito de levitação ao passar o mouse.
 
 Botões com hover animado.
