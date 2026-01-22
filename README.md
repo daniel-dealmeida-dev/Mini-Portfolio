@@ -1,7 +1,7 @@
- Portfolio de Daniel de Almeida
+
 
 <p align="center">
-  <img src="EU.jpg" alt="Daniel Almeida" width="150"/>
+  <img src="EU.jpg" alt=" Portfólio Daniel de Almeida" width="150"/>
 </p>
 
 ## Descrição
