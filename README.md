@@ -46,3 +46,19 @@ Botões com hover animado.
 Totalmente responsivo para mobile e desktop.
 
 Estrutura limpa e fácil de personalizar.
+
+
+## 🚀 Próximos Recursos 
+
+- [ ] Adicionar mais seções (Projetos, Skills, Contato). 
+- [ ] Implementar dark mode com toggle em JavaScript 
+- [ ] Incluir animações suaves de entrada usando CSS ou JS. 
+- [ ] Criar versão multi-card para portfólio completo.
+
+
+👨‍💻 autor
+
+Daniel Almeida
+Idade: 18 anos
+Focado em Java, React e Desenvolvimento Full-Stack
+Buscando evoluir projetos de backend + frontend
