@@ -10,7 +10,7 @@ O design utiliza:
 - **Layout responsivo** para se adaptar a diferentes tamanhos de tela;
 - **Fonte Roboto** importada do Google Fonts.
 
-O objetivo é servir como um **mini portfólio online**, ideal para apresentar suas informações de forma elegante e profissional.
+O objetivo é servir como um **mini portfólio online**, ideal para apresentar minhas informações de forma elegante e profissional.
 
 
 ## Tecnologias Utilizadas
