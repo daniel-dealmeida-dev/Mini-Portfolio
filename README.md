@@ -56,6 +56,7 @@ Estrutura limpa e fácil de personalizar.
 - [ ] Implementar dark mode com toggle em JavaScript 
 - [ ] Incluir animações suaves de entrada usando CSS ou JS. 
 - [ ] Criar versão multi-card para portfólio completo.
+- [ ] Implementar área "Quem sou eu?" ao clicar na foto de perfil.
 
 
 👨‍💻 autor
