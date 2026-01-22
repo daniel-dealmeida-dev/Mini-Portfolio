@@ -1,9 +1,4 @@
 
-
-<p align="center">
-  <img src="EU.jpg" alt=" Portfólio Daniel de Almeida" width="150"/>
-</p>
-
 ## Descrição
 
 Este projeto é um **portfólio moderno e responsivo**, construído com **HTML5 e CSS3**, projetado para mostrar informações pessoais, links para GitHub e LinkedIn, e uma foto de perfil.  
